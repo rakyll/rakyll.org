@@ -1,2 +1,3 @@
-http://rakyll.org
-https://rakyll.org
+rakyll.org {
+    root /home/jbd/rakyll.org
+}
